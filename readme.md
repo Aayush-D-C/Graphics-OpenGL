@@ -101,17 +101,4 @@ This section provides resources and programs for understanding and working with 
 - Basic lighting and shading examples
 - Advanced shader techniques (Phong Shading, Gouraud Shading)
 
-## Contributing
-Contributions are welcome! If you have an algorithm to add or an OpenGL concept to share, follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Commit your changes with clear messages.
-4. Submit a pull request.
-
-## License
-This repository is licensed under the MIT License. Feel free to use the code and resources, but give credit where it's due!
-
----
-
-Happy Coding! 🎉
 
