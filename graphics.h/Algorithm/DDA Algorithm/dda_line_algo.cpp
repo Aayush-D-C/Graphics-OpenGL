@@ -1,6 +1,6 @@
 #include<iostream>
 #include<conio.h>
-#inlcude"graphics.h"
+#include"graphics.h"
 
 void ddaline(int x1, int y1, int x2, int y2){
     int dx = x2-x1;
